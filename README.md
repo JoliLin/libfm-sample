@@ -8,7 +8,7 @@ libFM
 
 Dataset
 ----
-+ There's a given item-user matrix.
++ There's a example of item-user matrix.
 
 <table>
     <tr>
